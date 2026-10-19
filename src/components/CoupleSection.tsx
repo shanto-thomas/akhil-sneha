@@ -57,7 +57,7 @@ export const CoupleSection: React.FC = () => {
                     Akhil Mathew
                   </h3>
                   <p style={{ fontSize: '18px', color: '#34382e', maxWidth: '420px', lineHeight: '1.6', fontWeight: 500, margin: '0 0 6px' }}>
-                    Son of Mr. Mathew &amp; Mrs. Mary Mathew
+                    Son of Mr. Mathew &amp; Mrs. Molly Mathai
                   </p>
                   <p style={{ fontSize: '15px', color: '#7a8072', fontStyle: 'italic', maxWidth: '380px', lineHeight: '1.5' }}>
                     &ldquo;Walking forward with faith, devotion, and joy in God&apos;s plan.&rdquo;
