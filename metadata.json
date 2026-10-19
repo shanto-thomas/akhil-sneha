@@ -1,0 +1,6 @@
+{
+  "name": "Akhil & Sneha Engagement Invitation",
+  "description": "Christian engagement invitation for Akhil & Sneha with live countdown, ceremony itinerary, venue maps, RSVP, and guestbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
